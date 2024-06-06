@@ -42,3 +42,7 @@ StoryCraft is an innovative project that merges the capabilities of Large Langua
 - *Image Generation*:
 
 ![image generation](https://github.com/Krishhhhh05/StoryCraft/assets/102244499/29dfcde4-1364-4016-a5b3-21b0b4881634)
+
+- *Comparison of our model with previously implemented are compared with our model with the same input characters and the same input prompts*:
+![comp_merged](https://github.com/Krishhhhh05/StoryCraft/assets/102244499/0131b214-bdfc-48a3-87dd-e7540232724e)
+
