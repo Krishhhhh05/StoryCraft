@@ -22,7 +22,7 @@ StoryCraft is an innovative project that merges the capabilities of Large Langua
 
 **Examples**
 
-- *Story Generation*: 
+- **Story Generation**: 
     ```
     Theme: Adventure
     Characters: Brave knight, friendly dragon
@@ -32,17 +32,17 @@ StoryCraft is an innovative project that merges the capabilities of Large Langua
     ![image](https://github.com/Krishhhhh05/StoryCraft/assets/102244499/a4692c31-58f9-4129-a790-8dc6cd8d02ed)
 
 
-- *Key Scene and Character Extraction*:
+- **Key Scene and Character Extraction**:
     ```
     Scene: The brave knight faces the formidable dragon in a fierce battle.
     Characters: Brave knight - courageous, determined; Friendly dragon - loyal, protective.
     ```
 ![image](https://github.com/Krishhhhh05/StoryCraft/assets/102244499/99b74bc0-7985-4846-b3bc-f33249164d88)
 
-- *Image Generation*:
+- **Image Generation**:
 
 ![image generation](https://github.com/Krishhhhh05/StoryCraft/assets/102244499/29dfcde4-1364-4016-a5b3-21b0b4881634)
 
-- *Comparison of our model with previously implemented are compared with our model with the same input characters and the same input prompts*:
+- **Comparison of our model with previously implemented are compared with our model with the same input characters and the same input prompts**:
 ![comp_merged](https://github.com/Krishhhhh05/StoryCraft/assets/102244499/0131b214-bdfc-48a3-87dd-e7540232724e)
 
